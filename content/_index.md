@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Hello World
 layout: home
 subtitle: ''
 content: |-
@@ -8,7 +8,7 @@ content: |-
   Mauris sed leo vitae ex facilisis facilisis sed et enim. Pellentesque ut nisi in libero pharetra auctor. Phasellus dapibus ipsum in nisl volutpat, in dignissim erat dictum. Nunc dapibus leo vel molestie pharetra. Etiam ultrices dapibus viverra. Donec sagittis vestibulum urna ac vulputate. Nunc fermentum, augue non venenatis pulvinar, odio diam mollis metus, in euismod eros orci at magna. Etiam tincidunt quam a sapien blandit placerat.
 
   Merci à Anas Ameziane pour la mise à disposition de sa plateforme  de visio-conférence online.dejtech.org
-image: ''
+image: "/images/9.jpg"
 text_content: Hello World
 
 ---
