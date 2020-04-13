@@ -9,6 +9,6 @@ content: |-
 
   Merci à Anas Ameziane pour la mise à disposition de sa plateforme  de visio-conférence online.dejtech.org
 image: ''
-draft: true
+text_content: Hello World
 
 ---
