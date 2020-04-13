@@ -4,20 +4,6 @@ auto_deploy: false
 admin_path: static/admin
 webhook_url: https://api.stackbit.com/project/5e9490a7e3c7e0001350ef23/webhook/forestry
 sections:
-- type: heading
-  label: Le coin des complotistes
-- type: heading
-  label: Blind Test
-- type: heading
-  label: Tabou
-- type: heading
-  label: Pictionary
-- type: heading
-  label: Cherche et trouve
-- type: heading
-  label: Créa-room
-- type: heading
-  label: Curvytron
 - type: document
   path: config.yaml
   label: Global Site Config
