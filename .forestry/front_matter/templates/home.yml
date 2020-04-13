@@ -8,5 +8,10 @@ fields:
   description: The title of the page.
   config:
     required: true
+- name: home_layout
+  type: include
+  config: {}
+  template: page
+  label: home layout
 pages:
 - content/_index.md
