@@ -1,6 +1,6 @@
 ---
 label: Home
-hide_body: true
+hide_body: false
 fields:
 - type: text
   name: title
@@ -8,17 +8,21 @@ fields:
   description: The title of the page.
   config:
     required: true
-- name: image
-  type: file
-  config:
-    maxSize: 250
+- type: text
+  name: subtitle
+  label: Subtitle
+  description: The text shown just below the page title.
+- type: file
+  name: img_path
   label: Image
-- name: layout
-  type: text
-  config:
-    required: true
+  description: The image shown on the left side. If no image added, the default image
+    specified in Header Configuration is displayed.
+- type: text
+  name: layout
   label: Layout
   hidden: true
   default: page
+  config:
+    required: true
 pages:
 - content/_index.md
