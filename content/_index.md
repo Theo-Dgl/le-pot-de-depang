@@ -17,4 +17,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin in tristique enim
 
 Mauris sed leo vitae ex facilisis facilisis sed et enim. Pellentesque ut nisi in libero pharetra auctor. Phasellus dapibus ipsum in nisl volutpat, in dignissim erat dictum. Nunc dapibus leo vel molestie pharetra. Etiam ultrices dapibus viverra. Donec sagittis vestibulum urna ac vulputate. Nunc fermentum, augue non venenatis pulvinar, odio diam mollis metus, in euismod eros orci at magna. Etiam tincidunt quam a sapien blandit placerat.
 
-Merci à [Anas Ameziane](https://www.linkedin.com/in/anas-ameziane-199b5058/) pour la mise à disposition de sa plateforme  de visio-conférence [online.dejtech.org](http://online.dejtech.org/ "online.dejtech.org")
+Merci à [Anas Ameziane](https://www.linkedin.com/in/anas-ameziane-199b5058/) et Gaël **(add non et lien)** pour la mise à disposition de sa plateforme  de visio-conférence [online.dejtech.org](http://online.dejtech.org/ "online.dejtech.org")
