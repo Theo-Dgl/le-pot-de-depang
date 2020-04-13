@@ -26,9 +26,3 @@ menu:
     weight: 8
   - name: Blind Test
     weight: 7
-  - name: Tabou
-    weight: 6
-  - name: Pictionary
-    weight: 5
-  - name: Cherche et trouve
-    weight: 4
