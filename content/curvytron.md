@@ -1,5 +1,5 @@
 +++
-img_path = ""
+img_path = "/images/turn.gif"
 layout = "page"
 subtitle = ""
 title = "Curvytron"
