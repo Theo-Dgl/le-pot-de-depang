@@ -8,15 +8,11 @@ fields:
   description: The title of the page.
   config:
     required: true
-- name: content
-  type: textarea
-  default: ''
+- name: text_content
+  type: text
   config:
     required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Content
+  label: text content
 - name: image
   type: file
   config:
