@@ -11,13 +11,10 @@ params:
     has_nav: true
     has_social: false
   footer:
-    content: "&copy; All rights reserved."
+    content: ''
     links:
     - text: "⌨️by Théo"
       url: https://www.linkedin.com/in/dimeglio-theo/
-      new_window: true
-    - text: Made with Stackbit
-      url: https://www.stackbit.com
       new_window: true
 disableKinds:
 - RSS
