@@ -25,6 +25,7 @@ fields:
   config:
     required: true
 pages:
+- content/bienvenue-au-pot-de-depang.md
 - content/blind-test.md
 - content/cherche-et-trouve.md
 - content/curvytron.md
