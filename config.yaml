@@ -13,7 +13,7 @@ params:
   footer:
     content: "&copy; All rights reserved."
     links:
-    - text: Made by Théo
+    - text: "⌨️by Théo"
       url: https://www.linkedin.com/in/dimeglio-theo/
       new_window: true
     - text: Made with Stackbit
