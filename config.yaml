@@ -24,5 +24,3 @@ menu:
   main:
   - name: Le coin des complotistes
     weight: 1
-  - name: Blind Test
-    weight: 7
