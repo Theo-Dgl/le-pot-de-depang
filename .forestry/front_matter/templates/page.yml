@@ -25,6 +25,7 @@ fields:
   config:
     required: true
 pages:
+- content/blind-test.md
 - content/cherche-et-trouve.md
 - content/curvytron.md
 - content/la-créa-room.md
