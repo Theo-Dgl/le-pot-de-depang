@@ -24,5 +24,3 @@ fields:
   default: page
   config:
     required: true
-pages:
-- content/about.md
