@@ -6,7 +6,7 @@ layout = "page"
 subtitle = ""
 title = "Salle 5 : Blind Test"
 [menu.main]
-weight = 6
+weight = 7
 
 +++
 Certains Nijiens ont un véritable talent au Blind Test, mais n’ont su exceller à la discipline lors de la soirée de noël. Il semblerait que certaines revanches n’ont pas encore été prises. It’s time for revenge !

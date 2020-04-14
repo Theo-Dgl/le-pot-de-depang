@@ -7,7 +7,7 @@ subtitle = ""
 title = "Salle 2 : La créa-room"
 [menu.main]
 name = "Salle 2 : Créa-room"
-weight = 3
+weight = 4
 
 +++
 L’équipe DDA Nantes avait revendiqué la Créa room. Mais s’il n’y a plus d’équipe DDA Nantes, y a-t-il toujours une Créa room ? Faites honneur une dernière fois au mur blanc en libérant votre créativité.

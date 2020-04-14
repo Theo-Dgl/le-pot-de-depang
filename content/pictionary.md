@@ -6,7 +6,7 @@ layout = "page"
 subtitle = ""
 title = "Salle 4 : Pictionary"
 [menu.main]
-weight = 5
+weight = 6
 
 +++
 Laissez vos talents de dessinateur s’exprimer !

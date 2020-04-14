@@ -5,6 +5,8 @@ img_path = ""
 layout = "page"
 subtitle = ""
 title = "Salle principale : Le coin des complotistes"
+[menu.main]
+weight = 2
 
 +++
 Blablabla
