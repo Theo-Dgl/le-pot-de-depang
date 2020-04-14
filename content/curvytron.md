@@ -1,8 +1,10 @@
 +++
+composant_cherche_et_trouve = false
+composant_taboo = false
 img_path = "/images/turn.gif"
 layout = "page"
 subtitle = ""
-title = "Curvytron"
+title = "Salle 1 : Curvytron"
 [menu.main]
 weight = 2
 
