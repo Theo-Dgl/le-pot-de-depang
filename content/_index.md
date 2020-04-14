@@ -15,4 +15,4 @@ img_path: ''
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin in tristique enim, nec placerat mauris. Sed cursus lobortis blandit. Sed et lectus vel nunc euismod sodales. Donec iaculis lacus quis ipsum vehicula lacinia. Donec vel vehicula mauris.
 
-Merci à [Anas Ameziane](https://www.linkedin.com/in/anas-ameziane-199b5058/) et Gaël **(add nom et lien)** pour la mise à disposition de sa plateforme  de visio-conférence [online.dejtech.org](http://online.dejtech.org/ "online.dejtech.org")
+Merci à [Anas Ameziane](https://www.linkedin.com/in/anas-ameziane-199b5058/), [Gaël Le Bihan](https://www.linkedin.com/in/gael-le-bihan/)  et [Romain Jamet](https://www.linkedin.com/in/romainjamet/) pour la mise à disposition de sa plateforme  de visio-conférence [online.dejtech.org](http://online.dejtech.org/ "online.dejtech.org")
