@@ -19,8 +19,8 @@ Le principe est simple : depuis une plateforme de visioconférence, plusieurs sa
 
 Découvrez sur votre gauche les différentes salles qui sont à votre disposition.
 
-Voici le lien vers la plateforme de visio-conférence : **online.dejtech.org  
-\**Vous n'aurez besoin ni d'adresse mail, ni de vous inscrire, mais seulement d'un pseudo ☺️.
+Voici le lien vers la plateforme de visio-conférence : [online.dejtech.org](online.dejtech.org)  
+Vous n'aurez besoin ni d'adresse mail, ni de vous inscrire, mais seulement d'un pseudo ☺️.
 
 Ce ne sera peut être pas aussi convivial qu’une tablée à la Cantine, mais Hugues a dit un jour
 
@@ -28,5 +28,4 @@ Ce ne sera peut être pas aussi convivial qu’une tablée à la Cantine, mais H
 
 alors tenons, malgré le confinement !
 
-❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️  
-Merci à [Anas Ameziane](https://www.linkedin.com/in/anas-ameziane-199b5058/), [Gaël Le Bihan](https://www.linkedin.com/in/gael-le-bihan/)  et [Romain Jamet](https://www.linkedin.com/in/romainjamet/) pour la mise à disposition de leur plateforme de visio-conférence et à Théo pour son aide incommensurable !
+❤️Merci à [Anas Ameziane](https://www.linkedin.com/in/anas-ameziane-199b5058/), [Gaël Le Bihan](https://www.linkedin.com/in/gael-le-bihan/)  et [Romain Jamet](https://www.linkedin.com/in/romainjamet/) pour la mise à disposition de leur plateforme de visio-conférence et à Théo pour son aide incommensurable !
