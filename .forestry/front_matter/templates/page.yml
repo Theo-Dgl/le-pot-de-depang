@@ -24,6 +24,10 @@ fields:
   default: page
   config:
     required: true
+- name: composant_cherche_et_trouve
+  type: boolean
+  label: composant cherche et trouve
+  default: false
 pages:
 - content/blind-test.md
 - content/cherche-et-trouve.md
