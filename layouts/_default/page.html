@@ -18,6 +18,10 @@
         <div class="post-content">
           {{ .Content }}
         </div><!-- .post-content -->
+
+        {{if .Params.composant_cherche_et_trouve}}
+        <h1>Composant ajouté</h1>
+        {{end}}
       </article><!-- .post -->
 
     </main><!-- .site-main -->
