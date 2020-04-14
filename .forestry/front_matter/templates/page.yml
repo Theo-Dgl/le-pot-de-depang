@@ -25,7 +25,7 @@ fields:
   config:
     required: true
 - type: text
-  name: layout
+  name: random_home_word
   label: Layout
   hidden: false
   default: random_home_word
