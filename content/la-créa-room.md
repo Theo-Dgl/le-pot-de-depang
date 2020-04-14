@@ -6,7 +6,7 @@ layout = "page"
 subtitle = ""
 title = "Salle 2 : La créa-room"
 [menu.main]
-name = "Créa-room"
+name = "Salle 2 : Créa-room"
 weight = 3
 
 +++
