@@ -15,14 +15,17 @@ img_path: ''
 ---
 Organiser un pot de départ quand chacun est confiné chez soi, c’est compliqué ☹️. Pourtant, avec l’aide de Théo, nous avons essayé d'organiser une soirée, qui on l’espère, vous plaira.
 
-Le principe est simple : depuis une plateforme de visioconférence, plusieurs salles seront accessibles. Pour chacune d’elle, un jeu vous sera proposé. L’idée est que vous puissiez passer de salle en salle, de jeu en jeu. Certains jeux nécessitent un maître du jeu ; on fait confiance au volontariat de chacun… Il y aura également une salle principale dans laquelle les moins joueurs pourront simplement discuter. 
+Le principe est simple : depuis une plateforme de visioconférence, plusieurs salles seront accessibles. Pour chacune d’elle, un jeu vous sera proposé. L’idée est que vous puissiez passer de salle en salle, de jeu en jeu. Certains jeux nécessitent un maître du jeu ; on fait confiance au volontariat de chacun… Il y aura également une salle principale dans laquelle les moins joueurs pourront simplement discuter.
 
-Découvrez sur votre gauche les différentes salles qui seront à votre disposition.
+Découvrez sur votre gauche les différentes salles qui sont à votre disposition.
 
-Voici le lien vers la plateforme de visio-conférence: [online.dejtech.org](http://online.dejtech.org/ "online.dejtech.org").   
+Voici le lien vers la plateforme de visio-conférence
+
+**online.dejtech.org**
+
 Vous n'aurez besoin ni d'adresse mail, ni de vous inscrire, mais seulement d'un pseudo ☺️.
 
-Ce ne sera peut être pas aussi convivial qu’une tablée à la Cantine, mais Hugues a dit un jour 
+Ce ne sera peut être pas aussi convivial qu’une tablée à la Cantine, mais Hugues a dit un jour
 
 > Il va falloir tenir dans le temps alors que le printemps amène son cortège habituel de bourgeons, de fleurs et de chants d’oisillons, de soleil aussi et bientôt de douceur.
 
