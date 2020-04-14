@@ -19,11 +19,8 @@ Le principe est simple : depuis une plateforme de visioconférence, plusieurs sa
 
 Découvrez sur votre gauche les différentes salles qui sont à votre disposition.
 
-Voici le lien vers la plateforme de visio-conférence
-
-**online.dejtech.org**
-
-Vous n'aurez besoin ni d'adresse mail, ni de vous inscrire, mais seulement d'un pseudo ☺️.
+Voici le lien vers la plateforme de visio-conférence : **online.dejtech.org  
+**Vous n'aurez besoin ni d'adresse mail, ni de vous inscrire, mais seulement d'un pseudo ☺️.
 
 Ce ne sera peut être pas aussi convivial qu’une tablée à la Cantine, mais Hugues a dit un jour
 
