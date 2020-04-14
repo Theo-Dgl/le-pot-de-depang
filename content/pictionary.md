@@ -1,8 +1,10 @@
 +++
+composant_cherche_et_trouve = false
+composant_taboo = false
 img_path = ""
 layout = "page"
 subtitle = ""
-title = "Pictionary"
+title = "Salle 4 : Pictionary"
 [menu.main]
 weight = 5
 
