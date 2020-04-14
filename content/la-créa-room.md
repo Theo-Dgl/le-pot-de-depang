@@ -4,7 +4,7 @@ composant_taboo = false
 img_path = ""
 layout = "page"
 subtitle = ""
-title = "Salle 2 : La créa-room blabla"
+title = "Salle 2 : La créa-room"
 [menu.main]
 name = "Créa-room"
 weight = 3
