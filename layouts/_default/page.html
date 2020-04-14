@@ -22,6 +22,9 @@
         {{if .Params.composant_cherche_et_trouve}}
           {{ partial "search_and_find.html" . }}
         {{end}}
+        {{if .Params.composant_taboo}}
+          {{ partial "search_and_find.html" . }}
+        {{end}}
       </article><!-- .post -->
 
     </main><!-- .site-main -->

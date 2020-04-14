@@ -28,6 +28,10 @@ fields:
   type: boolean
   label: composant cherche et trouve
   default: false
+- name: composant_taboo
+  type: boolean
+  label: composant taboo
+  default: false
 pages:
 - content/blind-test.md
 - content/cherche-et-trouve.md
