@@ -1,9 +1,10 @@
 +++
 composant_cherche_et_trouve = true
+composant_taboo = false
 img_path = ""
 layout = "page"
 subtitle = ""
-title = "Cherche et trouve"
+title = "Salle 3 : Cherche et trouve"
 [menu.main]
 weight = 4
 
