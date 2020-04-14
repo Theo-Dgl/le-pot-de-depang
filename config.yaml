@@ -13,8 +13,8 @@ params:
   footer:
     content: ''
     links:
-    - text: "⌨️by Théo"
-      url: https://www.linkedin.com/in/dimeglio-theo/
+    - text: "⌨️ par Théo"
+      url: ''
       new_window: true
 disableKinds:
 - RSS
