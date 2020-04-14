@@ -9,4 +9,4 @@ title = "Salle principale : Le coin des complotistes"
 weight = 2
 
 +++
-Blablabla
+A la Cantine, nous aurions probablement joué au babyfoot, fait une partie de pétanque… mais nous aurions surtout partagé une bière et discuté ! Le coin des complotistes est la salle où l’on boit et parle ; vous trouverez des saucissons, chips, bières, vin, jus d’orange, petits fours dans vos armoires, n’hésitez surtout pas à vous servir !
