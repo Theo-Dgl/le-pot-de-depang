@@ -1,5 +1,5 @@
 ---
-title: Bonsoir à tous et bienvenue au pot de depang
+title: Bienvenue au pot de depang
 layout: home
 subtitle: ''
 content: |-
