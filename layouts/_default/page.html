@@ -20,7 +20,7 @@
         </div><!-- .post-content -->
 
         {{if .Params.composant_cherche_et_trouve}}
-        <h1>Composant ajouté</h1>
+          {{ partial "search_and_find.html" . }}
         {{end}}
       </article><!-- .post -->
 
