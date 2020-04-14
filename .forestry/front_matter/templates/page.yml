@@ -24,6 +24,13 @@ fields:
   default: page
   config:
     required: true
+- type: text
+  name: layout
+  label: Layout
+  hidden: false
+  default: random_home_word
+  config:
+    required: true
 pages:
 - content/blind-test.md
 - content/cherche-et-trouve.md
