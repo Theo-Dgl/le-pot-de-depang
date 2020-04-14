@@ -22,5 +22,5 @@ disableKinds:
 - taxonomyTerm
 menu:
   main:
-  - name: Le coin des complotistes
+  - name: Accueil
     weight: 1
