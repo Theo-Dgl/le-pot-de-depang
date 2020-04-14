@@ -9,4 +9,4 @@ title = "Salle 6 : Taboo"
 weight = 8
 
 +++
-Sur le même principe que le pictionnary, vous devrez faire deviner un mot sans le citer !
+Sur le même principe que le pictionnary, vous devrez faire deviner un mot sans le citer 🤫!
