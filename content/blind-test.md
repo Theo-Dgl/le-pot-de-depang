@@ -1,8 +1,10 @@
 +++
+composant_cherche_et_trouve = false
+composant_taboo = false
 img_path = ""
 layout = "page"
 subtitle = ""
-title = "Blind Test"
+title = "Salle 5 : Blind Test"
 [menu.main]
 weight = 6
 
