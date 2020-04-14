@@ -9,7 +9,7 @@ title = "Salle 4 : Pictionary"
 weight = 6
 
 +++
-Laissez vos talents de dessinateur s’exprimer !
+Pictionary est un jeu de société dont le but est de faire deviner un mot, une expression ou une idée dans un temps limité, à l'aide d'un dessin. **Laissez vos talents de dessinateur s’exprimer !**
 
 1. Créez une partie privée
 2. Partagez le lien de la room (caché en bas de l'écran derrière la mention "Hover over me to see the invite link")
