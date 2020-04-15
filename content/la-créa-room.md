@@ -12,6 +12,6 @@ weight = 4
 +++
 L’équipe DDA Nantes avait revendiqué la Créa room. Mais s’il n’y a plus d’équipe DDA Nantes, y a-t-il toujours une Créa room ? Faites honneur une dernière fois au mur blanc en libérant votre créativité.
 
-Lien : [https://awwapp.com/b/u2n19vjbrvnkp/](https://awwapp.com/b/u2n19vjbrvnkp/ "https://awwapp.com/b/u2n19vjbrvnkp/")
+Lien : [awwapp.com/b/ur9jcqolvue2t/](https://awwapp.com/b/ur9jcqolvue2t/ "https://awwapp.com/b/ur9jcqolvue2t/")
 
 ![](/images/IMG_20191009_095257.jpg)
