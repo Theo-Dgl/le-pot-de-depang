@@ -1,5 +1,5 @@
 +++
-composant_cherche_et_trouve = false
+composant_cherche_et_trouve = true
 composant_taboo = true
 img_path = ""
 layout = "page"
